@@ -85,13 +85,6 @@ The Arduino source code is available in the `code` folder.
 
 [View Arduino Source Code](code/Electronic_Voting_Machine.ino)
 
-## References
-
-- Arduino Documentation
-- Tinkercad Circuits
-- Arduino LiquidCrystal Library Documentation
-- YouTube Tutorial: https://youtu.be/yeEX9Z7e64I
-
 ## Project Structure
 
 ```text
@@ -113,10 +106,16 @@ arduino-electronic-voting-machine/
     └── simulation_result.png
 ```
 
-## Author
+## References
 
-**Mohammed Thoufeeq Ali**
+- [Arduino Official Documentation](https://docs.arduino.cc/)
+- [Tinkercad Circuits](https://www.tinkercad.com/)
+- [Arduino LiquidCrystal Library Guide](https://www.arduino.cc/en/Reference/LiquidCrystal)
+- [YouTube Demonstration & Tutorial](https://youtu.be/yeEX9Z7e64I)
 
-Electronics and Communication Engineering
+## Authors & Contributors
 
-GitHub: MdThoufeeq
+- **Mohammed Thoufeeq Ali S M** ([@MdThoufeeq](https://github.com/MdThoufeeq))
+- **Mohammed Thafeez**
+- **Mohammed Ummul Shameeha**
+- Department of Electronics and Communication Engineering
