@@ -109,7 +109,7 @@ arduino-electronic-voting-machine/
 ## References
 
 - [Arduino Official Documentation](https://docs.arduino.cc/)
-- [Tinkercad Circuits](https://www.tinkercad.com/)
+- [Tinkercad Circuits Simulation Project](https://www.tinkercad.com/things/bgLQwH8DhUJ-voting-machine-digital-project?sharecode=-wf4-mVNiEfysZz_w32w17ucnnEB4auav_UT4w27BYc)
 - [Arduino LiquidCrystal Library Guide](https://www.arduino.cc/en/Reference/LiquidCrystal)
 - [YouTube Demonstration & Tutorial](https://youtu.be/yeEX9Z7e64I)
 
