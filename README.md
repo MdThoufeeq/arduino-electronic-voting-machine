@@ -92,14 +92,6 @@ The Arduino source code is available in the `code` folder.
 - Arduino LiquidCrystal Library Documentation
 - YouTube Tutorial: https://youtu.be/yeEX9Z7e64I
 
-## Author
-
-**Mohammed Thoufeeq Ali**
-
-Electronics and Communication Engineering
-
-GitHub: MdThoufeeq
-
 ## Project Structure
 
 ```text
@@ -119,3 +111,12 @@ arduino-electronic-voting-machine/
     ├── simulation_initial.png
     ├── simulation_voting.png
     └── simulation_result.png
+```
+
+## Author
+
+**Mohammed Thoufeeq Ali**
+
+Electronics and Communication Engineering
+
+GitHub: MdThoufeeq
