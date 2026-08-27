@@ -118,4 +118,5 @@ arduino-electronic-voting-machine/
 - **Mohammed Thoufeeq Ali S M** ([@MdThoufeeq](https://github.com/MdThoufeeq))
 - **Mohammed Thafeez**
 - **Mohammed Ummul Shameeha**
-- Department of Electronics and Communication Engineering
+
+Department of Electronics and Communication Engineering
