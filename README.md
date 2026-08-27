@@ -16,17 +16,21 @@ This project demonstrates the implementation of a basic electronic voting system
 
 ## Hardware Used
 
-- Arduino
-- LCD Display
+- Arduino Uno
+- 16×2 LCD Display
 - Push Buttons
-- Connecting Wires
+- LEDs
+- Resistors
+- Potentiometer
+- Buzzer
 - Breadboard
-- Other required electronic components
+- Connecting Wires
 
-## Software
+## Software and Tools
 
 - Arduino IDE
 - Embedded C / Arduino Programming
+- Tinkercad Circuits
 
 ## Working
 
@@ -35,17 +39,75 @@ This project demonstrates the implementation of a basic electronic voting system
 3. The user selects an option using the corresponding button.
 4. Arduino registers and counts the vote.
 5. The updated voting information is displayed on the LCD.
+6. The final voting result is displayed after the voting process.
+
+## Circuit Diagram
+
+![Circuit Diagram](images/circuit_diagram.png)
+
+## Hardware Setup
+
+![Hardware Setup](images/hardware_setup.png)
+
+## Simulation
+
+The circuit was simulated using Tinkercad Circuits to verify the working of the voting system.
+
+### Initial State
+
+![Initial Simulation](images/simulation_initial.png)
+
+### Voting Process
+
+![Voting Simulation](images/simulation_voting.png)
+
+### Voting Result
+
+![Simulation Result](images/simulation_result.png)
+
+## Technologies Used
+
+- Arduino
+- C/C++ (Arduino programming)
+- Tinkercad Circuits
+- LCD interfacing
+- Digital input/output
 
 ## Project Documentation
 
 The project report and implementation files are included in this repository.
 
-## Reference
+[View Project Report](documentation/Arduino_Based_Electronic_Voting_Machine_Project_Report.pdf)
 
-This project was developed with reference to an online tutorial:
+## Source Code
 
-YouTube: https://youtu.be/yeEX9Z7e64I
+The Arduino source code is available in the `code` folder.
 
-## Author
+[View Arduino Source Code](code/Electronic_Voting_Machine.ino)
 
-**Mohammed Thoufeeq Ali**
+## References
+
+- Arduino Documentation
+- Tinkercad Circuits
+- Arduino LiquidCrystal Library Documentation
+- YouTube Tutorial: https://youtu.be/yeEX9Z7e64I
+
+## Project Structure
+
+```text
+arduino-electronic-voting-machine/
+│
+├── README.md
+│
+├── code/
+│   └── Electronic_Voting_Machine.ino
+│
+├── documentation/
+│   └── Arduino_Based_Electronic_Voting_Machine_Project_Report.pdf
+│
+└── images/
+    ├── circuit_diagram.png
+    ├── hardware_setup.png
+    ├── simulation_initial.png
+    ├── simulation_voting.png
+    └── simulation_result.png
