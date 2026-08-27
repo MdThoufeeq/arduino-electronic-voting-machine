@@ -111,3 +111,10 @@ arduino-electronic-voting-machine/
     ├── simulation_initial.png
     ├── simulation_voting.png
     └── simulation_result.png
+## Author
+
+**Mohammed Thoufeeq Ali**
+
+Electronics and Communication Engineering
+
+GitHub: MdThoufeeq
